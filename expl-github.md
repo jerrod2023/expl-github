@@ -9,9 +9,10 @@
 
 # Git Commands
 - git status
-- git add
+- ls
 - git add filename
-- git commit -m
+- git commit -m "finame"
+- git push origin main
 
 # Favorite Food
 - Cake
