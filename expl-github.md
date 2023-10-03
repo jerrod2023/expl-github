@@ -11,7 +11,7 @@
 - git status
 - ls
 - git add filename
-- git commit -m "finame"
+- git commit -m "filename"
 - git push origin main
 
 # Favorite Food
