@@ -19,3 +19,5 @@
 - Cookie
 - Brownie
 - Chocolate
+- Apple pie
+- No hard candies
