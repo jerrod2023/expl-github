@@ -21,3 +21,9 @@
 - Chocolate
 - Apple pie
 - No hard candies
+
+# Hobbies
+- Gym/Workout
+- Play Basketball
+- Watch NFL
+- Watch NBA
