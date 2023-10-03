@@ -8,8 +8,8 @@
 - history
 
 # Git Commands
-- git status
 - ls
+- git status
 - git add filename
 - git commit -m "filename"
 - git push origin main
